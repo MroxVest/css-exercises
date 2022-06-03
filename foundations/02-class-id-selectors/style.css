@@ -1,0 +1,19 @@
+.odd {
+    background-color: #f59aac;
+    font-family: Veranda, "DejaVue Sans", sans-serif;
+}
+
+#second {
+    color: #1302f7;
+    font-size: 36px;
+}
+
+.third {
+    font-size: 24px;
+}
+
+#fourth {
+    background-color: #3df581;
+    font-size: 24px;
+    font-weight: bold;
+}
