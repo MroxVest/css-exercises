@@ -10,6 +10,26 @@ img {
 .title {
   font-size: 36px;
   font-weight: 900;
+  align-self: flex-start;
+}
+
+.flower-box {
+  display: flex;
+  flex-flow: wrap;
+  justify-content: center;
+}
+
+.flowers {
+  display: flex;
+  align-items: center;
+}
+
+.item-1,
+.item-2,
+.item-3,
+.item-4 {
+  display: flex;
+  flex-flow: column nowrap;
 }
 
 /* do not edit this footer */
